@@ -1,4 +1,4 @@
-//script externo para hacer la resolucion dinamica
+//Script externo para hacer la resolucion dinamica
 import * as THREE from './three.js';
 class Resize{
     constructor(camera){
