@@ -1,4 +1,4 @@
-//script externo para facilitar el loop
+//Script externo para facilitar el loop
 class LoopMachine{
     constructor(){
         this.flag = false;
