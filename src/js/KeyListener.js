@@ -1,4 +1,4 @@
-//script externo para facilitar el manejo de teclas
+//Script externo para facilitar el manejo de teclas
 class KeyListener{
     constructor(caster){
         this.keys = {}
